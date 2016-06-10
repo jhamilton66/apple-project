@@ -1,13 +1,12 @@
-# Basic Project Project 
+# Apple Automation Project 
 
-*Using Java Basic Concepts* Day 04
+*Using Selenium with FireFox* Day 13
 
 **Java 7**
 
-* Scanner
-* String
-* Primitives
-* Switch
-* If/Else
+* Selenium
+* TestNG
+* Maven 
+* Java
 
-[James Hamilton] (jameshamilton9878@comcast.net)
+[James Hamilton](jameshamilton9878@comcast.net)
